@@ -11,10 +11,7 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- *
- * @author meetsbrahmbhatt
- */
+
 public class ClientSideTempClient implements Runnable{
     public Socket socket;
     public ObjectInputStream objIn;

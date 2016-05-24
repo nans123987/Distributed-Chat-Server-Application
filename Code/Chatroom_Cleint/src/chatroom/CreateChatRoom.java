@@ -7,15 +7,8 @@ package chatroom;
 
 import javax.swing.JFrame;
 
-/**
- *  Team Members
- *  
- *  Akash Gupta             - 1001122031
- *  Harshitha Gowda         - 1001098221
- *  Meet Brahmbhatt         - 1001119131
- *  Shruthi Shanthaveerappa - 1001106474
- *          
- */
+    
+
 public class CreateChatRoom extends javax.swing.JFrame {
 
     /**

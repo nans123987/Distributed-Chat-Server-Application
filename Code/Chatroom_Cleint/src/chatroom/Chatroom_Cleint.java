@@ -10,15 +10,7 @@ import java.util.*;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *  Team Members
- *
- *  Akash Gupta             - 1001122031
- *  Harshitha Gowda         - 1001098221
- *  Meet Brahmbhatt         - 1001119131
- *  Shruthi Shanthaveerappa - 1001106474
- *
- */
+
 public class Chatroom_Cleint implements Runnable{
     
     /**

@@ -10,15 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.xml.ws.BindingProvider;
 
-/**
- *  Team Members
- *  
- *  Akash Gupta             - 1001122031
- *  Harshitha Gowda         - 1001098221
- *  Meet Brahmbhatt         - 1001119131
- *  Shruthi Shanthaveerappa - 1001106474
- *          
- */
+
 public class Signup extends javax.swing.JFrame {
 
     /**

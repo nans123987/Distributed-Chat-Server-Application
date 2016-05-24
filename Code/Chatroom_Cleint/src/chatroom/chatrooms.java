@@ -16,15 +16,6 @@ import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 
-/**
- *  Team Members
- *  
- *  Akash Gupta             - 1001122031
- *  Harshitha Gowda         - 1001098221
- *  Meet Brahmbhatt         - 1001119131
- *  Shruthi Shanthaveerappa - 1001106474
- *          
- */
 public class chatrooms extends javax.swing.JFrame {
 
     /**

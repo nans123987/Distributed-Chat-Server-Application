@@ -13,10 +13,7 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- *
- * @author meetsbrahmbhatt
- */
+
 public class ClientSideTempServer implements Runnable{
     Socket clientSocket;
     ObjectInputStream objIn;
